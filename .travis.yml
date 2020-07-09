@@ -18,6 +18,6 @@ deploy:
   target_branch: gh-pages
   skip_cleanup: true
   github_token: "$GITHUB_TOKEN"
-  fqdn: bergrivier.openbylaws.org.za
+  fqdn: cederberg.openbylaws.org.za
   on:
     branch: master
